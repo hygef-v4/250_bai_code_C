@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Hung/Desktop/code/C practices",
-      "program": "c:/Users/Hung/Desktop/code/C practices/build/Debug/outDebug",
+      "cwd": "c:/Users/Hung/Documents/GitHub/250_bai_code_C",
+      "program": "c:/Users/Hung/Documents/GitHub/250_bai_code_C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
