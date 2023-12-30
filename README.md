@@ -1,2 +1,1 @@
-                                                        WANNA BE THE GOAT IN C? 
-                                                          DO THISSSSSSSSS!!!
+C practice problems
