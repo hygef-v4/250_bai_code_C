@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 // tìm ra ngày đầu tiên của năm vào thứ mấy (0 = Sunday, 1 = monday, ....)
 int get_1st_weekday(int year){  
   int day;
@@ -16,7 +15,7 @@ int main(void)
    {
     printf("\nEnter your desired year:");
     scanf("%d",&year);
-   } while(year <= 1582); // năm > 1582 thì ngưng loop nếu < 1582 thì lặp lại loop
+   } while(year <= 1582); // năm > 1582 thì ngưng loop nếu <= 1582 thì lặp lại loop
    
    // ngày đầu tiên của năm
    int starting_day = get_1st_weekday(year);
