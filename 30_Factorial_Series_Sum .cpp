@@ -36,6 +36,7 @@ int factorial(int n) {
 
 int main() {
     int n;
+    std::cout << "Enter n" << "\n";
     std::cin >> n;
     double sum = 0;
 
