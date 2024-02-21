@@ -31,6 +31,7 @@ int main(void)
 	int x = 10;
 	int result = binarySearch(arr, 0, n - 1, x);
 	
+
     if (result == -1)   
         printf("Element is not present in array\n");
     else 
