@@ -34,7 +34,7 @@ int main(void)
 
     if (result == -1)   
         printf("Element is not present in array\n");
-    else 
+    else 		
         printf("Element is present at index %d\n", result);
   
 	return 0;
