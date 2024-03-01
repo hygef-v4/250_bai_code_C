@@ -32,6 +32,7 @@ int sec_largest(int arr[], int n)
             second_max = max;
             max = arr[i];
         }
+        // if max2 < arr[i] < max 
         else if(arr[i] > second_max && arr[i] < max)
         {
             second_max = arr[i];
