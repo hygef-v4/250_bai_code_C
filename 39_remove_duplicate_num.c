@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
   /*Input: 8
   1 4 2 5 6 2 4 4
   Output: 1 4 2 5 6*/
